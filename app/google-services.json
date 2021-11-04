@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067119075865",
+    "project_id": "smartparkingsystem-5ffb7",
+    "storage_bucket": "smartparkingsystem-5ffb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067119075865:android:39d2fe22d543c7e9f58088",
+        "android_client_info": {
+          "package_name": "com.furrycatxd.smartparkingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067119075865-q5craqc9vj8cdng433t8s6eubqspqviv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_fff_cEpBTJgVFPbhfFqH14d1HnsSrwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067119075865-q5craqc9vj8cdng433t8s6eubqspqviv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
